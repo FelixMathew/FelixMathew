@@ -14,7 +14,7 @@
   <a href="https://www.instagram.com/mathew_._07" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://6839e57e734a1c22eb9c49d7--snazzy-belekoy-153023.netlify.app/" target="_blank">
+  <a href="https://felixmathew.github.io/my-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -32,7 +32,7 @@
 
 - 🔭 Currently building responsive UIs and animations with **React**, **TailwindCSS**, and **Framer Motion**
 - 🎯 Designing clean & intuitive user experiences on **Figma**
-- 🌐 Portfolio: [Check out my work!](https://6839e57e734a1c22eb9c49d7--snazzy-belekoy-153023.netlify.app/)
+- 🌐 Portfolio: [Check out my work!](https://felixmathew.github.io/my-portfolio/)
 - 📫 Contact me: felixsparrow561@gmail.com
 - ⚡ Fun fact: I love adding subtle microinteractions to everything I build!
 
